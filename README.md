@@ -39,7 +39,7 @@ Examples of qualitative segmentation results are shown below.
 
 The **source code for the ARB12 experiments and implementation will be released shortly**.
 
-> 🚧 **Code release:** The repository is currently being prepared for the public release of the source code, training configurations, and supporting resources.
+> 🚧 **Code release:** The repository is currently being prepared for the public release of the source code, execution configurations, and supporting resources.
 
 ## Dataset
 
