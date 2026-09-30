@@ -43,4 +43,4 @@ The **source code for the ARB12 experiments and implementation will be released 
 
 ## Dataset
 
-Further details about the ARB12 dataset, including its annotation protocol, taxonomy, and data availability, will be provided with the code and dataset release.
+Further details about the ARB dataset, including its annotation protocol, taxonomy, and data availability, will be provided with the code and dataset release.
