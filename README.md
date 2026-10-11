@@ -15,9 +15,7 @@ ARB12 addresses geographic and semantic biases in urban street-view semantic seg
 
 The project introduces an annotation and taxonomy-mapping pipeline designed to improve the representation of urban scenes from Arab cities and facilitate their use with established semantic-segmentation frameworks.
 
-The repository contains the resources associated with the ARB12 dataset and the experiments presented in the paper.
-
-### Annotation Pipeline
+The repository contains the resources associated with the ARB dataset, the ARB12 taxonomy and the experiments presented in the paper.
 
 The following figure illustrates the annotation pipeline used to construct the ARB dataset.
 
